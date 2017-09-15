@@ -18,7 +18,7 @@ from sklearn.model_selection import train_test_split
 import tensorflow.contrib.keras.api.keras.losses as k
 import pdb
 
-quandl_tkn = "reqa36mksyfgx9BR6r88" #quandl_token
+quandl_tkn = "" #quandl_token
 vol_scaler = 10**5
 feature_scaler = 10**5
 
